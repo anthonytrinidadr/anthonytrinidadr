@@ -46,11 +46,11 @@ I am a Computer Systems Engineering student, currently halfway through my degree
     ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-
+##
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Check out my Social Media</h2></summary>
+ <div id="user-content-toc">
+   <ul align="center">
+     <summary><h2 style="display: inline-block">Check out my Social Media</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
